@@ -53,8 +53,11 @@ Churn – Whether the customer has churned (Yes/No) (Target Variable)
 ## Project Structure
 
 |-- telecom_customer_churn_prediction.ipynb   # Jupyter Notebook with analysis and model building
+
 |-- telecom_data.xlsx                         # Dataset used for training the model
-|-- customer_churn_segments                   # Saved excel document after prediction
+
+|-- customer_churn_segmentsxlsx               # Saved excel document after prediction
+
 |-- README.md                                 # Project documentation
 
 ## Methodology
